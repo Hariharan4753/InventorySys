@@ -1,7 +1,7 @@
 package com.Project2.DBConnection.Services; // NEW: lowercase package name
 
 import com.Project2.DBConnection.Entities.Product;
-import com.Project2.DBConnection.Repository.ProductRepository;
+import com.Project2.DBConnection.repository.ProductRepository;
 import com.Project2.DBConnection.Exception.ResourceNotFoundException; // NEW: we'll create this
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

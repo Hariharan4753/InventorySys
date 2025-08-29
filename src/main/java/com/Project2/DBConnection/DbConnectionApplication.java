@@ -1,6 +1,6 @@
-package com.project2.dbconnection; // NEW: lowercase package name
+package com.project2.dbconnection; 
 
-import io.swagger.v3.oas.annotations.OpenAPIDefinition; // NEW: Swagger/OpenAPI
+import io.swagger.v3.oas.annotations.OpenAPIDefinition; 
 import io.swagger.v3.oas.annotations.info.Contact;
 import io.swagger.v3.oas.annotations.info.Info;
 import org.springframework.boot.SpringApplication;

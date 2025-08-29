@@ -1,4 +1,4 @@
-package com.Project2.DBConnection.Controller; // NEW: lowercase package name
+package com.Project2.DBConnection.Controller; 
 
 import com.Project2.DBConnection.Entities.Product;
 import com.Project2.DBConnection.Services.ProductService;
